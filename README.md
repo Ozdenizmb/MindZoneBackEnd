@@ -12,7 +12,7 @@ RequestBody = UserLoginDto
 
 SQL create Database
 
-CREATE TABLE charity_admins (
+CREATE TABLE users (
 id uuid DEFAULT uuid_generate_v4(),
 first_name VARCHAR NOT NULL,
 last_name VARCHAR NOT NULL,
