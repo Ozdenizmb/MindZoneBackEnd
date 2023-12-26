@@ -6,7 +6,7 @@ RequestBody = UserCreateDto
 
 Login işlemi için path:
 /api/v1/users/{userLoginDto}
-ReqjestBody = UserLoginDto
+RequestBody = UserLoginDto
 
 
 
